@@ -1,7 +1,7 @@
 var a =50;
 var c;
 function setup() {
-  createCanvas(400, 400);
+createCanvas(windowWidth, windowHeight);
 }
 // ESTO VENDRIA siendo el espacio de dibujo de 400x400
 
